@@ -1,7 +1,7 @@
-Sys::Load version 0.1
+Sys::Load version 0.2
 ~~~~~~~~~~~~~~~~~~~~~
 
-Sys::Load is a module that is used to get the current system load.
+Sys::Load is a module that is used to get the current system load and uptime.
 
 
 INSTALLATION
